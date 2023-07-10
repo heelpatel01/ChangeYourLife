@@ -1,0 +1,193 @@
+  /* @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&family=Sedgwick+Ave+Display&family=Titillium+Web:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;  
+    margin-top: 40%;  
+}
+
+.quote{
+    border: solid;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    margin-left: 50%;
+} */
+
+/* Normal Theme */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&family=Sedgwick+Ave+Display&family=Titillium+Web:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.quote {
+    border: 2px solid #333;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.clickMe {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.clickMe:hover {
+    background-color: #555;
+} */
+
+/* dark theme */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&family=Sedgwick+Ave+Display&family=Titillium+Web:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.quote {
+    border: 2px solid #fff;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #444;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+.clickMe {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #666;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.clickMe:hover {
+    background-color: #888;
+} */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&family=Sedgwick+Ave+Display&family=Titillium+Web:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #f57c00;
+}
+
+.quote {
+    border: 2px solid #f57c00;
+    height: 450px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+}
+
+.clickMe {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #f57c00;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.clickMe:hover {
+    background-color: #ff9800;
+}
