@@ -191,3 +191,9 @@ h1 {
 .clickMe:hover {
     background-color: #ff9800;
 }
+
+.quote::selection {
+  background-color: #f57c00; /* Replace with your custom color */
+  color: #ffffff; /* Replace with a contrasting color for text */
+}
+
